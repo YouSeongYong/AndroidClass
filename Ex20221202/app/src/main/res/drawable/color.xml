@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 아이템 선택했을때 안했을때-->
+    <!-- 선택 했을때 색깔-->
+    <item android:color="#FF9999" android:state_selected="true"></item>
+    <!-- 선택 하지 않았을때 색깔-->
+    <item android:color="#BDBDBD" android:state_selected="false"/>
+
+
+
+</selector>
